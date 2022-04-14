@@ -1,11 +1,11 @@
 # javascript_practice
 
-I'm reading [this book](www.amazon.co.jp/dp/4815601577)
+I'm reading [this book](www.amazon.co.jp/dp/4815601577) since 4/15
 
 ## Progress bar
 
 
-- [``0%``] Chapter 1 イントロダクション
+- [``========================================100%``] Chapter 1 イントロダクション (Completed on 4/15)
 - [``0%``] Chapter 2 アウトプットの基本
 - [``_                                         0%``] Chapter 3 JavaScriptの文法と基本的な機能
 - [``_                                         0%``] Chapter 4 インプットとデータの加工
