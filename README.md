@@ -1,6 +1,6 @@
 # javascript_practice
 
-I'm reading [this book](www.amazon.co.jp/dp/4815601577) since 4/15
+I'm reading [this book](https://www.amazon.co.jp/dp/4815601577) since 4/15
 
 ## Progress bar
 
